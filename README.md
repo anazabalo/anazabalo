@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anazabalo
-- 👀 I’m interested in Frontend 
-- 🌱 I’m currently learning ReactJs still...
+- 👀 I’m interested in Frontend development and databases
+- 🌱 I’m currently learning Typescript 
 - 📫 How to reach me zabaloana@gmail.com
 
 <!---
